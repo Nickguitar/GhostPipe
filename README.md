@@ -6,6 +6,13 @@ It allows you to manage BadUSB PowerShell-based payloads, collect exfiltrated da
 
 You install GhostPipe on any server, flash your Digispark or BadUSB device with a tiny PowerShell stub that simply downloads whatever lives at `/x`, and then point it at your GhostPipe URL. From the web UI you can add, edit, activate or deactivate payloads on the fly. Therefore, the next time your device plugs in it will fetch the newest script, and any data it POSTs back to /exfil (text, files or even screenshots) is automatically collected, decoded and presented in your dashboard for review.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/6ad827b0-6c40-4b70-b0ad-6a9a7bc23bc8)
+
+![image](https://github.com/user-attachments/assets/1b15b7d6-1249-4a74-a61a-e9b361f7c79d)
+
+![image](https://github.com/user-attachments/assets/c563d3f5-5cd1-46c6-b88f-16a43573cefa)
+
 
 ## 🔑 Features
 
